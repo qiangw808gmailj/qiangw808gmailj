@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me:
+#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br> <br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=HideBa0a.HideBa0a) <br>
+<!-- [![HitCount](http://hits.dwyl.com/HideBa0a/HideBa0a/HideBa0a.svg)](http://hits.dwyl.com/HideBa0a/HideBa0a/HideBa0a) -->
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=HideBa0a.HideBa0a)
+[![HitCount](http://hits.dwyl.com/HideBa0a/HideBa0a/HideBa0a.svg)](http://hits.dwyl.com/HideBa0a/HideBa0a/HideBa0a) <br>
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+---
